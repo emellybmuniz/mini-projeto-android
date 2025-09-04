@@ -5,7 +5,6 @@
 
 ![Banner](./imagens/dan-droids.png)
 
----
 
 ![GitHub License](https://img.shields.io/github/license/emellybmuniz/mini-projeto-android)
 ![GitHub language count](https://img.shields.io/github/languages/count/emellybmuniz/mini-projeto-android)
@@ -37,6 +36,7 @@ A responsive webpage that tells the curious history of the Android operating sys
 
 This project is a single-page website created to present the history of the Android mascot. It covers the origin of the first mascot concepts, the creation of the famous Bugdroid by Irina Blok, and curiosities about the Android version names. The layout is designed to be pleasant and readable on both desktop and mobile devices.
 
+
 ## ✨ Highlights & Features
 
 - **Responsive Design:** The layout adapts to different screen sizes using media queries and flexible units.
@@ -52,6 +52,7 @@ This project was built using the following technologies:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
 
 ## ⚙️ Prerequisites
 
@@ -100,3 +101,4 @@ Crafted with ❤️ by **Emelly Beatriz**
 📧 emellybmuniz@gmail.com |
 💼 [Linkedin](www.linkedin.com/in/emellybmuniz) |
 🐙 [Github](https://github.com/emellybmuniz)
+
